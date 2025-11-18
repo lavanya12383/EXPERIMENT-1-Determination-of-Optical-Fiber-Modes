@@ -1,4 +1,5 @@
-
+# ARIGALA LAVANYA
+# 212222060019
 # Exp 1 Mode Characteristics of Fiber Optic Cable
 
 ## 🎯 AIM
@@ -27,7 +28,8 @@ and a female connector receptacle. The other base plate is attached onto the las
 to alter the angular orientation of one base plate relative to the	other can then adjust the screws.
  
 The number of modes propagating through the fiber depends on V-number. If the fiber whose number is less than 2.045,	it allows to propagate single mode through it, so it is called as Single Mode fiber.
-A Multimode fiber, V-number is slightly greater than 2.045 but the number of allowed modes is small enough that they may be individually identified when the output of the fiber is examined.
+A Multimode fiber, V-number is slightly greater than 2.045 but the number of allowed mode
+s is small enough that they may be individually identified when the output of the fiber is examined.
 When V < 2.045, then only a single mode may propagate in the fiber waveguide. This mode is HE11 mode or LP01 – Linearly Polarized mode.
 When V > 2.045, other modes may propagate, when V is slightly greater than 2.045 i.e. V = 4.91 then 4 Linearly Polarized modes will propagate through fiber.
 
@@ -52,7 +54,7 @@ When V > 2.045, other modes may propagate, when V is slightly greater than 2.045
 
 ## 📊 OBSERVATION AND CALCULATION
 
-- 
+- [exp1.pdf](https://github.com/user-attachments/files/23599051/exp1.pdf)
 Parameter of given fiber are,
 A = 4.5μm (core radius), N.A = 0.11, λ = 633nm V = 2 π x A x N.A / λ = 4.91
 From fig. shows only 4 LP modes propagates.
@@ -61,3 +63,4 @@ Total number of modes = V2 / 2 = 4.912 / 2
 ---
 ## Tabulation
 ## Result
+Thus the mode characteristics of fiber optic cable supports or propagates through 6 modes and observe four lower order Linearly Polarized (LP) modes
