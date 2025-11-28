@@ -5,7 +5,8 @@
 ## 🎯 AIM
 To study the mode characteristics of fiber optic cable and observe the lower order Linearly Polarized (LP) modes.
 
----
+---![WhatsApp Image 2025-11-28 at 09 38 04_1b2fe27a](https://github.com/user-attachments/assets/9ec82354-e586-493a-b423-6d0f91dc60e8)
+
 
 ## 🧰 EQUIPMENTS REQUIRED
 1. LASER Source (633 nm – 1mW)  
@@ -15,6 +16,7 @@ To study the mode characteristics of fiber optic cable and observe the lower ord
 5. Opaque Screen  
 
 ---
+![WhatsApp Image 2025-11-28 at 09 38 04_237028f1](https://github.com/user-attachments/assets/a61bd68f-ec29-4500-ac47-5f7d954621fe)
 
 
 ## 📚 THEORY
@@ -54,6 +56,8 @@ When V > 2.045, other modes may propagate, when V is slightly greater than 2.045
 
 ## 📊 OBSERVATION AND CALCULATION
 
+![Uploading WhatsApp Image 2025-11-28 at 09.38.26_fe381b53.jpg…]()
+
 - [exp1.pdf](https://github.com/user-attachments/files/23599051/exp1.pdf)
 Parameter of given fiber are,
 A = 4.5μm (core radius), N.A = 0.11, λ = 633nm V = 2 π x A x N.A / λ = 4.91
@@ -62,5 +66,7 @@ Total number of modes = V2 / 2 = 4.912 / 2
 
 ---
 ## Tabulation
+![Uploading WhatsApp Image 2025-11-28 at 09.39.13_06966f9e.jpg…]()
+
 ## Result
 Thus the mode characteristics of fiber optic cable supports or propagates through 6 modes and observe four lower order Linearly Polarized (LP) modes
