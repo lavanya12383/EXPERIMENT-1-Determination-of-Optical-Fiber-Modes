@@ -5,7 +5,7 @@
 ## 🎯 AIM
 To study the mode characteristics of fiber optic cable and observe the lower order Linearly Polarized (LP) modes.
 
----![WhatsApp Image 2025-11-28 at 09 38 04_1b2fe27a](https://github.com/user-attachments/assets/9ec82354-e586-493a-b423-6d0f91dc60e8)
+
 
 
 ## 🧰 EQUIPMENTS REQUIRED
