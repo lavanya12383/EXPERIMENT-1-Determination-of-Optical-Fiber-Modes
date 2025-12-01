@@ -57,6 +57,8 @@ When V > 2.045, other modes may propagate, when V is slightly greater than 2.045
 
 Parameter of given fiber are,
 ![WhatsApp Image 2025-11-28 at 09 39 13_7484da5f](https://github.com/user-attachments/assets/2f567ac8-d161-4693-8dc1-4da45a11f59c)
+![515307294-388bc00e-ec05-4408-a2ea-2bdd2a871c38](https://github.com/user-attachments/assets/2c025828-6efd-4ee8-ae7f-757ef16d2eae)
+
 
 
 A = 4.5μm (core radius), N.A = 0.11, λ = 633nm V = 2 π x A x N.A / λ = 4.91
